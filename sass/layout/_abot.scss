@@ -1,0 +1,14 @@
+.about-container {
+}
+.description-more {
+  @media screen and (max-width: 1199px) {
+    display: none;
+  }
+}
+.btn-description {
+  border: none;
+  background-color: transparent;
+  @media screen and (max-width: 1199px) {
+    display: none;
+  }
+}

@@ -1,0 +1,37 @@
+body {
+  background: linear-gradient(180.11deg, #e5e2e3 10.73%, #fdfefe 38.02%, #e5e2e3 71.11%, #fdfefe 99.91%);
+  color: var(--basic-text-color);
+  font-size: 16px;
+  font-family: Montserrat, sans-serif;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+h1,
+h2,
+h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Montserrat Alternates, sans-serif;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+.list {
+  list-style: none;
+}
+.button {
+  cursor: pointer;
+}
+.link {
+  text-decoration: none;
+}
